@@ -1,4 +1,4 @@
-# blackleech
+# BlackLeech
 BlackOps Security Inc. - APT Implant Simulator
 
 Linux/macOS Parasite Code
