@@ -1,7 +1,7 @@
 # BlackLeech
 BlackOps Security Inc. - APT Implant Simulator
 <p align="center">
-  <img src="https://github.com/blackopsinc/BLACKLEECH/blob/main/images/blackleech_osx.jpg?raw=true" width="80%"/>
+  <img src="https://github.com/blackopsinc/BLACKLEECH/blob/main/images/blackleech_osx.png?raw=true" width="80%"/>
 </p>
 Linux/macOS Parasite Code
 
